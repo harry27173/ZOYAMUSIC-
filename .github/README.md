@@ -1,11 +1,11 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「⛦🦋 𝗕𝗥𝗔𝗡𝗗𝗥𝗗 ✘ 𝗠𝗨𝗦𝗜𝗖 🦋⛦」──
+    ──「𝐙ᴏʏᴀ ✘ 𝐌ᴜsɪᴄ」──
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/d02b81736a7e9519c6386.jpg">
+  <img src="https://graph.org/file/4e5932e15f499cf354f5c.jpg">
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ━━━━━━━━━━━━━━━━━━━━
 </h2>
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;📡+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;❤️+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝗕𝗥𝗔𝗡𝗗𝗘𝗗+𝗞𝗜𝗡𝗚🔥">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;📡+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;❤️+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝐙ᴏʏᴀ ✘ 𝐌ᴜsɪᴄ">
 
 <p align="center">
   <img src="https://telegra.ph/file/925eade709484516c5fe3.jpg">
@@ -32,7 +32,7 @@
 
 </p>
 
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝄟ॐ⏤͟͟͞͞🦋⃝⃪⃮⃕⃔ʙʀᴀɴᴅᴇᴅ🅘︎ɴɴᴏᴄᴇɴᴛ⛦⃕͜🅚︎ᴜᴅɪ𐏓꯭ ᷞ ͦ͢ ͮ ͤ✿્᭄͜͡𝄟⃟🥀](https://t.me/BRANDED_KUDI_BOT)**
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝐙ᴏʏᴀ ✘ 𝐌ᴜsɪᴄ](https://t.me/BRANDED_KUDI_BOT)**
 
 
 
@@ -105,4 +105,4 @@
 <a href="https://t.me/BRANDRD_BOT"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʙʀᴀɴᴅᴇᴅ](https://github.com/WCGKING) ғᴏʀ [ʙʀᴀɴᴅᴇᴅ ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/BRANDRD_BOT)_</b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʙʀᴀɴᴅᴇᴅ](https://github.com/WCGKING) ғᴏʀ [𝐙ᴏʏᴀ ✘ 𝐌ᴜsɪᴄ](https://t.me/BRANDRD_BOT)_</b>
