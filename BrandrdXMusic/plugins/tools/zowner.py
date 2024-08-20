@@ -17,7 +17,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "ƨσʋяcɛ", url=f"https://github.com/WCGKING/BrandrdXMusic"
+                        "ƨσʋяcɛ", url=f"https://graph.org/file/8177cc451b5bf2c5f2ac9.mp4"
                     )
                 ]
             ]
@@ -34,7 +34,7 @@ async def clones(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "ƨσʋяcɛ", url=f"https://github.com/WCGKING/BrandrdXMusic"
+                        "ƨσʋяcɛ", url=f"https://graph.org/file/8177cc451b5bf2c5f2ac9.mp4"
                     )
                 ]
             ]
